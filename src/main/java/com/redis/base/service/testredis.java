@@ -13,5 +13,8 @@ public class testredis {
 		System.out.println("模拟主分支的情况，或是其他分支mercz后push过来的放法");
 		
 	}
-	
+	public void dev2(){
+		System.out.println("dev2的方法");
+		
+	}
 }
