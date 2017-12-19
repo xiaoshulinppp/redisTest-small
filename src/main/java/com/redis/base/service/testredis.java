@@ -10,6 +10,9 @@ public class testredis {
 	}
 	public void master(){
 		System.out.println("主文件方法。。");
+	}
+	public void dev(){
+		System.out.println("分支dev，删除方法一的内容");
 		
 	}
 	
