@@ -9,7 +9,7 @@ public class testredis {
 		
 	}
 	public void master(){
-		System.out.println("主文件方法。。");
+		System.out.println("主文件方法。测试直接pull的问题。");
 	}
 	public void dev(){
 		System.out.println("分支dev，删除方法一的内容");
