@@ -15,5 +15,8 @@ public class testredis {
 		System.out.println("分支dev，删除方法一的内容");
 		
 	}
-	
+	public void dev2(){
+		System.out.println("dev2的方法");
+		
+	}
 }
