@@ -9,6 +9,9 @@ public class testredis {
 		System.out.println("新增分支方法2，删除方法一的内容");
 		
 	}
-	
+	public void zhufenzhi(){
+		System.out.println("模拟主分支的情况，或是其他分支mercz后push过来的放法");
+		
+	}
 	
 }
