@@ -12,13 +12,8 @@ public interface BaseRedisService {
 	 * @param user
 	 * @return
 	 */
-	public boolean add2(final String Key, final String value);
-	/**
-	 * 新增 <br>
-	 * ------------------------------<br>
-	 * 
-	 */
 	public boolean add(final String Key, final String value);
+
 	/**
 	 * 批量新增 ------------------------------<br>
 	 *
